@@ -18,14 +18,14 @@ future_tree.add("[bold link=https://github.com/blackjax-devs/blackjax]blackjax[/
 future_tree.add("[bold link=https://github.com/aesara-devs/aemcmc]aemcmc[/]                              - [bright_black]samplers in aesara")
 future_tree.add("[bold link=https://github.com/probml/dynamax]dynamax[/]                             - [bright_black]state space models in jax")
 future_tree.add("[bold link=https://github.com/thomaspinder/GPJax]GPJax[/]                               - [bright_black]Gaussian Processes in jax")
-future_tree.add("[bold link=https://github.com/nimble-dev/nimble]nimble[/]                              - [bright_black]probabilistic programming in R, customisable samplers in R")
+future_tree.add("[bold link=https://github.com/nimble-dev/nimble]nimble[/]                              - [bright_black]probabilistic programming in R, customisable samplers")
 
 work_tree = tree.add("work", guide_style="bright_black")
 
-amazon_tree = work_tree.add("Amazon                              - [bright_black]Applied Scientist intern, Bayesian multivariate time series")
+amazon_tree = work_tree.add("Amazon                              - [bright_black]Applied Scientist intern, probabilistic forecasting")
 
 imperial_tree = work_tree.add("Imperial College London")
-imperial_tree.add("PhD, Biostatistics (unfinished) - [bright_black]Scalable, Bayesian spatiotemporal mortality modelling")
+imperial_tree.add("PhD, Biostatistics (unfinished) - [bright_black]Scalable spatiotemporal mortality modelling")
 imperial_tree.add("MSci, Theoretical Physics       - [bright_black]Mostly maths")
 
 console.print(tree)
