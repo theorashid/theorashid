@@ -6,8 +6,8 @@ console = Console(record=True, width=100)
 tree = Tree("[link=https://theorashid.github.io/]Theo Rashid", guide_style="bold bright_black")
 
 self_tree = tree.add("code for me", guide_style="bright_black")
-self_tree.add("[bold link=https://github.com/theorashid/probabilistic-programming-packages]probabilistic-programming-packages[/]  - [bright_black]same forecasting model, different probabilistic programming languages")
-self_tree.add("[bold link=https://github.com/theorashid/mortality-statsmodel]mortality-statsmodel[/]                - [bright_black]scalable, hierarchical Bayesian models for mortality over space and time")
+self_tree.add("[bold link=https://github.com/theorashid/probabilistic-programming-packages]probabilistic-programming-packages[/]  - [bright_black]same forecasting model, different PPLs")
+self_tree.add("[bold link=https://github.com/theorashid/mortality-statsmodel]mortality-statsmodel[/]                - [bright_black]scalable, Bayesian spatiotemporal models for mortality")
 
 contrib_tree = tree.add("code I helped with", guide_style="bright_black")
 contrib_tree.add("[bold link=https://github.com/pyro-ppl/numpyro]numpyro[/]                             - [bright_black]probabilistic programming, jax backend")
