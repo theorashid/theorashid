@@ -17,7 +17,7 @@ future_tree = tree.add("code I would like to work on", guide_style="bright_black
 future_tree.add("[bold link=https://github.com/blackjax-devs/blackjax]blackjax[/]                            - [bright_black]samplers in jax")
 future_tree.add("[bold link=https://github.com/aesara-devs/aemcmc]aemcmc[/]                              - [bright_black]samplers in aesara")
 future_tree.add("[bold link=https://github.com/probml/dynamax]dynamax[/]                             - [bright_black]state space models in jax")
-future_tree.add("[bold link=https://github.com/thomaspinder/GPJax]GPJax[/]                               - [bright_black]Gaussian Processes in jax")
+future_tree.add("[bold link=https://github.com/thomaspinder/GPJax]GPJax[/]                               - [bright_black]Gaussian processes in jax")
 future_tree.add("[bold link=https://github.com/nimble-dev/nimble]nimble[/]                              - [bright_black]probabilistic programming in R, customisable samplers")
 
 work_tree = tree.add("work", guide_style="bright_black")
