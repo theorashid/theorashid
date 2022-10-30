@@ -12,13 +12,13 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aesara-devs/aemcmc">aemcmc</a></span>                              - <span style="color: #808080; text-decoration-color: #808080">samplers in aesara</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/probml/dynamax">dynamax</a></span>                             - <span style="color: #808080; text-decoration-color: #808080">state space models in jax</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/thomaspinder/GPJax">GPJax</a></span>                               - <span style="color: #808080; text-decoration-color: #808080">Gaussian Processes in jax</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/nimble-dev/nimble">nimble</a></span>                              - <span style="color: #808080; text-decoration-color: #808080">probabilistic programming with customisable samplers </span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/nimble-dev/nimble">nimble</a></span>                              - <span style="color: #808080; text-decoration-color: #808080">probabilistic programming in R, customisable samplers </span>
 <span style="color: #808080; text-decoration-color: #808080">┃       </span><span style="color: #808080; text-decoration-color: #808080">in R</span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>work
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span>Amazon                              - <span style="color: #808080; text-decoration-color: #808080">Applied Scientist intern, Bayesian multivariate time </span>
 <span style="color: #808080; text-decoration-color: #808080">    ┃   </span><span style="color: #808080; text-decoration-color: #808080">series</span>
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span>Imperial College London
-<span style="color: #808080; text-decoration-color: #808080">        ┣━━ </span>PhD, Biostatistics (in progress)- <span style="color: #808080; text-decoration-color: #808080">Scalable, Bayesian spatiotemporal mortality modelling</span>
+<span style="color: #808080; text-decoration-color: #808080">        ┣━━ </span>PhD, Biostatistics (unfinished) - <span style="color: #808080; text-decoration-color: #808080">Scalable, Bayesian spatiotemporal mortality modelling</span>
 <span style="color: #808080; text-decoration-color: #808080">        ┗━━ </span>MSci, Theoretical Physics       - <span style="color: #808080; text-decoration-color: #808080">Mostly maths</span>
 
 <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/theorashid">@theorashid</a></span>
