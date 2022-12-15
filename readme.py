@@ -12,6 +12,7 @@ self_tree.add("[bold link=https://github.com/theorashid/mortality-statsmodel]mor
 contrib_tree = tree.add("code I helped with", guide_style="bright_black")
 contrib_tree.add("[bold link=https://github.com/pyro-ppl/numpyro]numpyro[/]                             - [bright_black]probabilistic programming, jax backend")
 contrib_tree.add("[bold link=https://github.com/pymc-devs/pymc]pymc[/]                                - [bright_black]probabilistic programming, aesara backend")
+contrib_tree.add("[bold link=https://github.com/aesara-devs/aesara]aesara[/]                              - [bright_black]python C/jax/numba tensor library")
 
 future_tree = tree.add("code I would like to work on", guide_style="bright_black")
 future_tree.add("[bold link=https://github.com/blackjax-devs/blackjax]blackjax[/]                            - [bright_black]samplers in jax")
