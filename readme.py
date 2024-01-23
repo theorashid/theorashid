@@ -8,6 +8,7 @@ tree = Tree("[link=https://theorashid.github.io/]Theo Rashid", guide_style="bold
 self_tree = tree.add("code for me", guide_style="bright_black")
 self_tree.add("[bold link=https://github.com/theorashid/probabilistic-programming-packages]probabilistic-programming-packages[/]  - [bright_black]same forecasting model, different PPLs")
 self_tree.add("[bold link=https://github.com/theorashid/mortality-statsmodel]mortality-statsmodel[/]                - [bright_black]scalable, Bayesian spatiotemporal models for mortality")
+self_tree.add("[bold link=https://github.com/sparklabnyc/bayesian-envhealth-models]bayesian-envhealth-models[/]           - [bright_black]Bayesian models for environmental health")
 self_tree.add("[bold link=https://github.com/sparklabnyc/cookiecutter-r-project]cookiecutter-r-project[/]              - [bright_black]template for analysis project in R")
 
 contrib_tree = tree.add("code I helped with", guide_style="bright_black")
