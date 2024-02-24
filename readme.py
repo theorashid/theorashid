@@ -14,7 +14,9 @@ self_tree.add("[bold link=https://github.com/sparklabnyc/cookiecutter-r-project]
 contrib_tree = tree.add("code I helped with", guide_style="bright_black")
 contrib_tree.add("[bold link=https://github.com/pyro-ppl/numpyro]numpyro[/]                             - [bright_black]probabilistic programming, jax backend")
 contrib_tree.add("[bold link=https://github.com/pymc-devs/pymc]pymc[/]                                - [bright_black]probabilistic programming, pytensor backend")
-contrib_tree.add("[bold link=https://github.com/pymc-devs/aesara]pytensor[/]                            - [bright_black]python C/jax/numba tensor library")
+contrib_tree.add("[bold link=https://github.com/pymc-devs/pytensor]pytensor[/]                            - [bright_black]python C/jax/numba tensor library")
+contrib_tree.add("[bold link=https://github.com/jax-ml/bayeux]bayeux[/]                              - [bright_black]inference for Bayesian models in jax")
+
 
 future_tree = tree.add("code I would like to work on", guide_style="bright_black")
 future_tree.add("[bold link=https://github.com/blackjax-devs/blackjax]blackjax[/]                            - [bright_black]samplers in jax")
@@ -24,7 +26,8 @@ future_tree.add("[bold link=https://github.com/nimble-dev/nimble]nimble[/]      
 
 work_tree = tree.add("work", guide_style="bright_black")
 
-amazon_tree = work_tree.add("Amazon                              - [bright_black]Applied Scientist intern, probabilistic forecasting")
+work_tree.add("Faculty                             - [bright_black]Data Science Fellow")
+work_tree.add("Amazon                              - [bright_black]Applied Scientist intern, probabilistic forecasting")
 
 imperial_tree = work_tree.add("Imperial College London")
 thesis_tree = imperial_tree.add("PhD, Biostatistics              - [bright_black]Scalable spatiotemporal mortality modelling")
