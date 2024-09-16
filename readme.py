@@ -23,18 +23,20 @@ contrib_tree.add("[bold link=https://github.com/pyro-ppl/numpyro]numpyro[/]     
 contrib_tree.add("[bold link=https://github.com/pymc-devs/pymc]pymc[/]                                - [bright_black]probabilistic programming, pytensor backend")
 contrib_tree.add("[bold link=https://github.com/pymc-devs/pytensor]pytensor[/]                            - [bright_black]python C/jax/numba tensor library")
 contrib_tree.add("[bold link=https://github.com/jax-ml/bayeux]bayeux[/]                              - [bright_black]inference for Bayesian models in jax")
+contrib_tree.add("[bold link=https://github.com/thomaspinder/GPJax]GPJax[/]                               - [bright_black]Gaussian processes in jax")
 
 
 future_tree = tree.add("code I would like to work on", guide_style="bright_black")
 future_tree.add("[bold link=https://github.com/blackjax-devs/blackjax]blackjax[/]                            - [bright_black]samplers in jax")
 future_tree.add("[bold link=https://github.com/probml/dynamax]dynamax[/]                             - [bright_black]state space models in jax")
-future_tree.add("[bold link=https://github.com/thomaspinder/GPJax]GPJax[/]                               - [bright_black]Gaussian processes in jax")
 future_tree.add("[bold link=https://github.com/nimble-dev/nimble]nimble[/]                              - [bright_black]probabilistic programming in R, customisable samplers")
 
 work_tree = tree.add("work", guide_style="bright_black")
 
+work_tree.add("Amazon                              - [bright_black]Applied Scientist, probabilistic forecasting")
 work_tree.add("Faculty                             - [bright_black]Data Science Fellow")
-work_tree.add("Amazon                              - [bright_black]Applied Scientist intern, probabilistic forecasting")
+work_tree.add("Freelance                           - [bold link=https://www.loamin.com/]Loamin[/], [bold link=https://sparklabnyc.github.io/site/home.html]Robbie Parks, Columbia[/], [bold link=https://sethrf.com/]Seth Flaxman, Oxford[/]")
+work_tree.add("Amazon                              - [bright_black]Applied Scientist intern")
 
 imperial_tree = work_tree.add("Imperial College London")
 thesis_tree = imperial_tree.add("PhD, Biostatistics              - [bright_black]Scalable spatiotemporal mortality modelling")
@@ -44,7 +46,7 @@ imperial_tree.add("MSci, Theoretical Physics       - [bright_black]Mostly maths"
 
 console.print(tree)
 console.print("")
-console.print("[green]Follow me on twitter [bold link=https://twitter.com/theorashid]@theorashid[/]")
+console.print("Read [bold link=https://theorashid.github.io/notes/]what I'm learning[/].")
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
