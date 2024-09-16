@@ -1,3 +1,10 @@
+# /// script
+# dependencies = [
+#   "rich",
+# ]
+# ///
+
+# `uv run readme.py` to generate README.md
 from rich.console import Console
 from rich.tree import Tree
 
